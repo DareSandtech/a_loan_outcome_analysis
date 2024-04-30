@@ -1,0 +1,2 @@
+# a_loan_outcome_analysis
+an_analysis_of_features_which_have_the_most_influence_of_loan_outcomes
